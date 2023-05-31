@@ -10,4 +10,4 @@ Clustering multivariate data using mixture models is a well-studied topic in sta
 In this contribution we propose a Bayesian framework for clustering categorical data which makes use of graphical models to account for possible group-specific dependence relations between variables. 
 Our mixture model formulation allows to simultaneously infer a clustering structure of the units and the network of dependencies between variables.
 
-Full text available [here]().
+Full text available [here](Multivariate Categorical Data/Proceeding_SIS.pdf).
